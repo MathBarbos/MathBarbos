@@ -1,4 +1,8 @@
+***Sejam bem vindos ao meu perfil! 🙂***
 </div>
+
+##
+
   <a href="https://github.com/MathBarbos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathBarbos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathBarbos&layout=compact&langs_count=7&theme=dark"/>
@@ -12,8 +16,6 @@
  
 <div> 
   <a href = "mailto:matheusbarbosa2099@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+  <a href="https://www.linkedin.com/in/matheus-barbosa-d-612494220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
